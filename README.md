@@ -1,2 +1,2 @@
-# dev-101
+# learning-dog
 this a repository for my bootcamp
